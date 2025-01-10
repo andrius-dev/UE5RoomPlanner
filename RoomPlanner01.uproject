@@ -49,10 +49,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SunPosition",
-			"Enabled": true
-		},
-		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		},
@@ -92,6 +88,18 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
