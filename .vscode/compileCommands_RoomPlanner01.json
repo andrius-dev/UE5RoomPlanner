@@ -1,0 +1,42 @@
+[
+	{
+		"file": "/home/andrius/Projektai/Games/RoomPlanner01/Source/RoomPlanner01/RoomPlanner01.Build.cs",
+		"arguments": [
+			"/home/andrius/.local/bin/UnrealEngine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/andrius/Projektai/Games/RoomPlanner01/.vscode/compileCommands_RoomPlanner01/RoomPlanner01.1.rsp"
+		],
+		"directory": "/home/andrius/.local/bin/UnrealEngine5/Engine/Source"
+	},
+	{
+		"file": "/home/andrius/Projektai/Games/RoomPlanner01/Source/RoomPlanner01/RoomPlanner01.cpp",
+		"arguments": [
+			"/home/andrius/.local/bin/UnrealEngine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/andrius/Projektai/Games/RoomPlanner01/.vscode/compileCommands_RoomPlanner01/RoomPlanner01.1.rsp"
+		],
+		"directory": "/home/andrius/.local/bin/UnrealEngine5/Engine/Source"
+	},
+	{
+		"file": "/home/andrius/Projektai/Games/RoomPlanner01/Source/RoomPlanner01/RoomPlanner01.h",
+		"arguments": [
+			"/home/andrius/.local/bin/UnrealEngine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/andrius/Projektai/Games/RoomPlanner01/.vscode/compileCommands_RoomPlanner01/RoomPlanner01.1.rsp"
+		],
+		"directory": "/home/andrius/.local/bin/UnrealEngine5/Engine/Source"
+	},
+	{
+		"file": "/home/andrius/Projektai/Games/RoomPlanner01/Source/RoomPlanner01/SaveFileManager.cpp",
+		"arguments": [
+			"/home/andrius/.local/bin/UnrealEngine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/andrius/Projektai/Games/RoomPlanner01/.vscode/compileCommands_RoomPlanner01/RoomPlanner01.1.rsp"
+		],
+		"directory": "/home/andrius/.local/bin/UnrealEngine5/Engine/Source"
+	},
+	{
+		"file": "/home/andrius/Projektai/Games/RoomPlanner01/Source/RoomPlanner01/SaveFileManager.h",
+		"arguments": [
+			"/home/andrius/.local/bin/UnrealEngine5/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v22_clang-16.0.6-centos7/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/andrius/Projektai/Games/RoomPlanner01/.vscode/compileCommands_RoomPlanner01/RoomPlanner01.1.rsp"
+		],
+		"directory": "/home/andrius/.local/bin/UnrealEngine5/Engine/Source"
+	}
+]
